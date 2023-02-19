@@ -1,0 +1,41 @@
+.fw100 {
+    /* width: 100%; */
+    background-color: #f0efed;
+    color: #d86c3b;
+    font-weight: bolder;
+}
+.pad20 {
+    padding:  20px;
+}
+.w50 {
+    width: 32%;
+    margin-right: 2%;
+    /* border: 1px solid red; */
+    text-align: left;
+}
+.dflex {
+    display: flex;
+    
+}
+.frow {
+    flex-direction: row;
+}
+.fcol {
+    flex-direction: column;
+}
+p{
+    margin-top: 0;
+    text-align: justify;
+    
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: 12px;
+}
+.shortDis{
+    text-align-last: center;
+    padding-top: 12px;
+     font-size:14px;
+}
+.mato20 {
+    margin-top: 20px;
+}
